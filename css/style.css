@@ -2890,6 +2890,20 @@ input.hs-button.primary.large{
 }
 
 .profile_pic {
+/*  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  width: 140px;
+  height: 140px;
+  top: -212px;
+  left: 41.07%;
+  border: 2px solid white;
+  margin-top: 205px;
+
+  overflow:hidden;*/
+}
+
+.student_pic {
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
@@ -2900,11 +2914,7 @@ input.hs-button.primary.large{
   border: 2px solid white;
   margin-top: 205px;
 
-  overflow:hidden;
-}
 
-.student_pic {
-  
   transform: rotate(90deg);
 }
 
